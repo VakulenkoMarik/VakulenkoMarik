@@ -7,28 +7,28 @@ I develop complete Unity game systems — gameplay, UI, data persistence, and pl
 
 ---
 
-### About
+### 🧠 About
 
-Unity-focused developer with experience in building **full-cycle personal projects**.
+Unity-focused developer with experience in building **full-cycle personal projects**.  
 Strong emphasis on clean architecture, asynchronous logic, and scalable game systems.
 
 ---
 
-### Tech stack
+### 🛠️ Tech stack
 
-**Unity & Game Development**
+**🎮 Unity & Game Development**
 - Unity (PC, Android)
 - Scriptable Objects, Game Loop design
 - UI systems, animations
 - PlayerPrefs, JSON
 
-**Programming**
+**💻 Programming**
 - C#
 - OOP, abstractions
 - Async / Await, Coroutines
 - Web Requests
 
-**Services & Tools**
+**☁️ Services & Tools**
 - Firebase
 - Google Play Console, Google Ads
 - Rider, VS Code
@@ -36,7 +36,7 @@ Strong emphasis on clean architecture, asynchronous logic, and scalable game sys
 
 ---
 
-### Current focus
+### 🚀 Current focus
 
 - Databases & backend fundamentals
 - Building atmospheric, polished Unity projects
