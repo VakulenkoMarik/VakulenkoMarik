@@ -16,23 +16,23 @@ Strong emphasis on clean architecture, asynchronous logic, and scalable game sys
 
 ### 🛠️ Tech stack
 
-**🎮 Unity & Game Development**
-- Unity (PC, Android)
+**🎮 Unity & Game Development (PC, Android)**
 - Scriptable Objects, Game Loop design
 - UI systems, animations
 - PlayerPrefs, JSON
 
 **💻 Programming**
-- C#
+- C#, SFML
 - OOP, abstractions
 - Async / Await, Coroutines
 - Web Requests
+- Design Patterns
 
 **☁️ Services & Tools**
 - Firebase
 - Google Play Console, Google Ads
 - Rider, VS Code
-- Git, Git LFS
+- Git Bash, Git LFS, Fork
 
 ---
 
