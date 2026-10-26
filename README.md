@@ -11,6 +11,7 @@
     <a href="https://marianvakulenko.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
     <a href="https://www.linkedin.com/in/marian-vakulenko-19b688362/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://www.youtube.com/@marian_vakulenko"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+    <a href="https://play.google.com/store/apps/dev?id=7347881680689958101&hl=uk"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/></a>
   </p>
 
 </div>
